@@ -1,2 +1,2 @@
 #!/bin/bash
-frep ^ [[:alpha:]] /etc/ssh/sshd_config
+frep ^ [[:alpha:]] /etc/passwd
