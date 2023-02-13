@@ -1,2 +1,2 @@
 #!/bin/bash
-frep ^ [[:alpha:]] /etc/passwd
+grep ^ [[:alpha:]] /etc/passwd
